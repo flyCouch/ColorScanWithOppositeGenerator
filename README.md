@@ -15,7 +15,6 @@ Meaning 3D print something.
 
 You need to connect a 10k resistor from pin2 to GND.
 
-I will update the gerbers when I can.
 
 
 
