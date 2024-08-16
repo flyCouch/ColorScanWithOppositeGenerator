@@ -39,6 +39,7 @@ void HSVtoRGB(float h, float s, float v, byte &r, byte &g, byte &b);
 
 void setup() {
   pinMode(speakerPin, OUTPUT);
+  Serial.begin(9600);
 
   // Initialize the sensor and display
   tcs.begin();
