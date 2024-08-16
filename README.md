@@ -8,12 +8,14 @@ To work with this sensor: https://www.ebay.ca/itm/385679365781?itmmeta=01J4HWAK6
 
 And this display: https://phillipjfry.com/products/0-96-inch-oled-iic-serial-display-module-128x64-i2c-ssd1306-12864-lcd?_pos=1&_sid=20c9039dc&_ss=r
 
-Make some right angle pins.
+Get some right angle pins.
 
 I am working on a .stl brace/handle thing.
 Meaning 3D print something.
 
-Also .ino code not quite ready yet, soon, I hope.
+You need to connect a 10k resistor from pin2 to GND.
+
+I will update the gerbers when I can.
 
 
 
