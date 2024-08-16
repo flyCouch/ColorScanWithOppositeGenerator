@@ -106,9 +106,9 @@ void loop() {
 
   for (int i = 0; i < 2000; i++) {
     digitalWrite(speakerPin, HIGH);
-    delayMicroseconds(3);
+    delay(3);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(3);
+    delay(3);
   }
   
   Scan = LOW;
